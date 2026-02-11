@@ -103,6 +103,9 @@ Retail-Sales-Analysis-Excel/
 ```
 ## Screenshots
 
+### Key Insights Summary
+![Key Insights](Screenshots/Key_Insights.png)
+
 ### Analytical Questions
 ![Analytical Questions](Screenshots/Analytical_Questions.png)
 
@@ -111,9 +114,6 @@ Retail-Sales-Analysis-Excel/
 
 ### Monthly Revenue Trend
 ![Monthly Revenue Trend](Screenshots/Monthly_Revenue_Trend.png)
-
-### Key Insights Summary
-![Key Insights](Screenshots/Key_Insights.png)
 
 
 ## Learning Outcomes
